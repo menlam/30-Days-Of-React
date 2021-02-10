@@ -1,0 +1,5 @@
+answer 1. difference between arrow and regular function
+https://medium.com/better-programming/difference-between-regular-functions-and-arrow-functions-f65639aba256#:~:text=Regular%20functions%20created%20using%20function,be%20used%20as%20constructor%20functions.
+answer 2. The first and recommended component type in React is functional components. A functional component is basically a JavaScript/ES6 function that returns a React element (JSX)
+answer 3. We can create a functional component to React by writing a JavaScript function. These functions may or may not receive data as parameters. In the functional Components, the return value is the JSX code to render to the DOM tree. 
+

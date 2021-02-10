@@ -1,0 +1,23 @@
+const button = () => <button>Action</button> 
+const inputField = () => <input>first name</input>
+
+const alert = () => {
+    return (
+        <div>
+        <div class="alert">
+    
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
+
+<div class="alert success">
+  
+  <strong>Success!</strong> Indicates a successful or positive action.
+</div>
+
+<div class="alert info">
+  
+  <strong>Info!</strong> Indicates a neutral informative change or action.
+</div>
+        </div>
+    )
+}
